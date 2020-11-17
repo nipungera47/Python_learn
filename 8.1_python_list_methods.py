@@ -34,5 +34,5 @@ list.pop(2) # value is deleted which is at the index 2
 print(list)
 
 # this will remove 43 from the list
-list.remove(43)
+list.remove(43) 
 print(list)

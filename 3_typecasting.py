@@ -9,3 +9,7 @@ a=int(a)
 
 print(a+5)
 
+print("ds")
+print("ssfs"
+      )
+
